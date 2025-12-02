@@ -243,11 +243,3 @@ This is a portfolio project, but suggestions and improvements are welcome!
 ## License
 
 MIT License - see LICENSE file for details
-
-## Author
-
-Built as a portfolio project to demonstrate fintech engineering capabilities.
-
-## Acknowledgments
-
-Project inspired by real-world fintech patterns from neobanks, payment processors, and regulatory compliance requirements.
